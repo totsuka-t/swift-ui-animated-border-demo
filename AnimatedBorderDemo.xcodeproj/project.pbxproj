@@ -11,6 +11,7 @@
 		710560A02B35CFE000BA7AB0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7105609F2B35CFE000BA7AB0 /* ContentView.swift */; };
 		710560A22B35CFE200BA7AB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 710560A12B35CFE200BA7AB0 /* Assets.xcassets */; };
 		710560A52B35CFE200BA7AB0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 710560A42B35CFE200BA7AB0 /* Preview Assets.xcassets */; };
+		710560AC2B35D9AD00BA7AB0 /* AnimatedBorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 710560AB2B35D9AD00BA7AB0 /* AnimatedBorder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7105609F2B35CFE000BA7AB0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		710560A12B35CFE200BA7AB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		710560A42B35CFE200BA7AB0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		710560AB2B35D9AD00BA7AB0 /* AnimatedBorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedBorder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		7105609C2B35CFE000BA7AB0 /* AnimatedBorderDemo */ = {
 			isa = PBXGroup;
 			children = (
+				710560AB2B35D9AD00BA7AB0 /* AnimatedBorder.swift */,
 				7105609D2B35CFE000BA7AB0 /* AnimatedBorderDemoApp.swift */,
 				7105609F2B35CFE000BA7AB0 /* ContentView.swift */,
 				710560A12B35CFE200BA7AB0 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				710560A02B35CFE000BA7AB0 /* ContentView.swift in Sources */,
+				710560AC2B35D9AD00BA7AB0 /* AnimatedBorder.swift in Sources */,
 				7105609E2B35CFE000BA7AB0 /* AnimatedBorderDemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
